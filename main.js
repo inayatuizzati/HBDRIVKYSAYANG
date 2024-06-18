@@ -10,7 +10,7 @@ $(document).ready(function () {
           $(this).addClass('puff-bubble');
         });
         $('#glow').remove();
-        txt.hide().html('it will come true...once again happy birthday Mohammad ivky taufani, i love you from deep inside my heart❤︎').delay(750).fadeIn(300);
+        txt.hide().html('it will come true...once again happy birthday Mohammad Rivky taufani, i love you from deep inside my heart❤︎').delay(750).fadeIn(300);
         $('#candle').animate(
           {
             opacity: '.5',
